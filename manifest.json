@@ -13,7 +13,8 @@
           "https://lolesports.com/*",
           "https://www.tumblr.com/*",
           "https://www.reddit.com/*",
-          "https://discord.com/*"
+          "https://discord.com/*",
+          "https://bsky.app/*"
       ],
       "css": ["css/style.css"]
     }],
